@@ -8,7 +8,7 @@
       "schematics": {},
       "root": "",
       "sourceRoot": "src",
-      "prefix": "app",
+      "prefix": "bot",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -94,5 +94,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "6ec8ed20-41c2-4c9a-90a7-1cc2715822a6"
   }
 }
